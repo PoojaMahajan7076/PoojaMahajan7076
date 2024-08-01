@@ -1,16 +1,22 @@
-## Hi there 👋
+I'm Pooja Mahajan, a passionate data analyst student with a strong foundation in SQL, Excel, Python, and Power BI. I enjoy turning data into actionable insights and creating impactful visualizations.
 
-<!--
-**PoojaMahajan7076/PoojaMahajan7076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Skills:
+SQL: Data extraction, transformation, and analysis
+Excel: Pivot tables, dashboards, and data manipulation
+Python:
+NumPy: Numerical computations
+Pandas: Data manipulation and analysis
+Matplotlib: Data visualization
+Seaborn: Statistical data visualization
+Power BI: Interactive dashboards and reports
+🛠️ Projects:
+Customer Churn Analysis: An Excel project analyzing customer churn using pivot tables and dashboards.
+Customer Purchase Behavior Analysis: A comprehensive project involving SQL, Python, and Power BI to analyze customer purchase behavior.
+Car Information Dataset Analysis: Analyzing car information using MySQL Workbench to uncover key insights.
+🌱 Currently Learning:
+Advanced data visualization techniques
+Machine learning basics with Python
+Power BI advanced features
+💬 Let's Connect:
+LinkedIn: Your LinkedIn Profile
+Email: your.email@example.com
