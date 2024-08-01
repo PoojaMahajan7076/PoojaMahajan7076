@@ -1,22 +1,26 @@
-I'm Pooja Mahajan, a passionate data analyst student with a strong foundation in SQL, Excel, Python, and Power BI. I enjoy turning data into actionable insights and creating impactful visualizations.
+<h1 align="center">Hi 👋, I'm Pooja Mahajan</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-📊 Skills:
-SQL: Data extraction, transformation, and analysis
-Excel: Pivot tables, dashboards, and data manipulation
-Python:
-NumPy: Numerical computations
-Pandas: Data manipulation and analysis
-Matplotlib: Data visualization
-Seaborn: Statistical data visualization
-Power BI: Interactive dashboards and reports
-🛠️ Projects:
-Customer Churn Analysis: An Excel project analyzing customer churn using pivot tables and dashboards.
-Customer Purchase Behavior Analysis: A comprehensive project involving SQL, Python, and Power BI to analyze customer purchase behavior.
-Car Information Dataset Analysis: Analyzing car information using MySQL Workbench to uncover key insights.
-🌱 Currently Learning:
-Advanced data visualization techniques
-Machine learning basics with Python
-Power BI advanced features
-💬 Let's Connect:
-LinkedIn: Your LinkedIn Profile
-Email: your.email@example.com
+<img aline="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif"> 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=poojamahjan7076&label=Profile%20views&color=0e75b6&style=flat" alt="poojamahjan7076" /> </p>
+ 
+
+- 📫 How to reach me **poojabm1870@gamil.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pooja mahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooja mahajan" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojamahjan7076&show_icons=true&locale=en&layout=compact" alt="poojamahjan7076" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojamahjan7076&show_icons=true&locale=en" alt="poojamahjan7076" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojamahjan7076&" alt="poojamahjan7076" /></p>
+
+
