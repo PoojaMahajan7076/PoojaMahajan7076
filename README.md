@@ -1,4 +1,4 @@
-![logo](https://wallpaperaccess.com/full/3959393.jpg)
+![logo](https://img.freepik.com/premium-photo/business-data-financial-figures-visualiser-graphic_31965-22136.jpg)
 <h1 align="center">Hi 👋, I'm Pooja Mahajan</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
