@@ -1,4 +1,4 @@
-![logo](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
+![logo](https://wallpaperaccess.com/full/3959393.jpg)
 <h1 align="center">Hi 👋, I'm Pooja Mahajan</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
