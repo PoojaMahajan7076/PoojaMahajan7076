@@ -1,4 +1,4 @@
-![logo](https://img.freepik.com/premium-photo/business-data-financial-figures-visualiser-graphic_31965-22136.jpg)
+![logo](https://t4.ftcdn.net/jpg/04/35/31/47/360_F_435314769_TXsKQ6aQfoHMZJfGcXtaXhyoY7iHK3ld.jpg)
 <h1 align="center">Hi 👋, I'm Pooja Mahajan</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
