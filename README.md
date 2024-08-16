@@ -1,4 +1,4 @@
-![logo](https://tse1.mm.bing.net/th?id=OIP.TBbRWRsrH6fN7c05iI2pDgHaDM&pid=Api&P=0&h=180)
+![logo](https://wallpaperaccess.com/full/1704476.jpg)
 <h1 align="center">Hi 👋, I'm Pooja Mahajan</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
